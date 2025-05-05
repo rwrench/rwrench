@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Richard Wrench
-- 👀 I’m interested in C#, Unit Testing, Scrum, Azure, Mininal APIs, EF Core, Angular, TypeScript
+- 👀 I’m interested in C#, Scrum, Azure, Mininal APIs, EF Core, TypeScript,APIs, Copilot
 - 🌱 I’m currently learning Azure, EF Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...rwrench@gmail.com
